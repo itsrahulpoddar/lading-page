@@ -1,0 +1,117 @@
+html {
+     font-family: "helvetica neue","Arial",sans-serif;
+}
+body {
+       background-color: white; 
+       margin: 0;
+}
+header{
+       height: 85px;
+       background-color: #ffffff;
+}
+#head-container{
+       width: 75%;
+       margin: auto;
+}
+.col-3 {
+      width: 33%;
+      float: left;
+      font-size: 1.6em;
+       
+}
+
+.logo{
+     float: left;
+}
+.menu{
+      margin-top: 32px;
+}
+.menu li {
+      list-style-type: none;
+      display: inline;
+      font-size: 0.8em;
+      color:#8e8e8e;
+      display: inline;
+      padding-right: 7px;
+      margin-left: 15p
+      
+  }
+.getStartedBTN {
+      background-color: darkgreen;
+      border-radius: 28px;
+      -moz-border-radius: 28px;
+      -webkit-border-radius:28px;
+      text-decoration: none;
+      color: #ffffff;
+      padding: 10px 26px;
+      margin-top: 20px;
+      display: inline-block;
+      font-size: 16px;
+      float: right;
+}
+#top-section-main{
+         background-image: url(img2.jpg);
+         height: 740px;
+        
+}
+#top-section-content{
+         width: 60%;
+         margin-left: auto;
+         margin-right: auto;
+         margin-top: 0;
+}
+#top-section-content h1{
+         font-size: 3em;
+         font-weight: 300;
+         color:#ffffff;
+         text-align: center;
+         margin-top: 0;
+         padding-top: 100px;
+         margin-bottom: 15px;
+}
+#top-section-content p {
+  font-size:1.3em;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+}
+.play-button {
+         margin-left: auto;
+         margin-right: auto;
+         display: block;
+         padding:50px 0 110px 0;
+}
+
+.main-form h6 {
+          font-family: sans-serif;
+          color: #ffffff;
+          text-align: center;
+          font-size: .9em;
+          font-weight: 100;
+          
+}
+
+.main-form input,button{
+         margin: 0px;
+         width:30%;
+         height:40px;
+         border: none;
+         font-family: sans-serif;
+         padding-left: 15px;
+         font-weight: 100;
+         font-size: .9em
+}
+
+.main-form button{
+         width: 30%;
+         height: 42px;
+         font-family: sans-serif;
+         padding-left: 15px;
+         font-family: 100;
+         background-color: #6dc77a;
+         color:#ffffff;
+         border: none;
+         
+}
+
+      
